@@ -5,10 +5,7 @@
 
 int main()
 {
-
-    std::cout << "Hello World!nana\n";
-
-    std::cout << "新規ブランチ作成した\n";
+    std::cout << "コンフリクト作成\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
